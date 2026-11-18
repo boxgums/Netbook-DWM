@@ -5,20 +5,20 @@ a small dwm config i made for my netbook
 - a samsung NC series netbook (NC210 NC110)
 - dwm obviously
 ## the packages below
-'''
+```
 build-base
 libx11-dev
 libxft-dev
 libxinerama-dev
 dmenu
 xterm
-'''
+```
 ## optional:
-'''
+```
 xsetroot
 acpi
 feh
-'''
+```
 ---
 
 # Why?
